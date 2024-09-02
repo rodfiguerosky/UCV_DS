@@ -6,6 +6,7 @@
 
 ## Asignacion_02
 
+
 ## Asignacion_03 (random data bayes)
 ## Asignacion_04 (FP Growth)
 ## Asignacion_05 (textmine)
