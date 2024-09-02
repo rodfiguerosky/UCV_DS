@@ -9,7 +9,7 @@
 
    * Fuente de datos (archive_movies_csv.zip)
 
-## Asignacion_03 (random data bayes)
+## Asignacion_03 (random naive bayes)
    * Classificacion Bayesiana (Naive)
    * Proyecto: Identificacion segun el genero del publico consumidor 
 
