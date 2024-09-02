@@ -25,17 +25,15 @@
 
 Para calcular el puntaje (score):
 
-    Tomaremos los campos cast y listed_in:
+    Tomaremos los campos 'cast' y 'listed_in':
 
     En cast lo que pretendemos es identificar el género (masc ó fem) del elenco cast en cada una de las películas.
 
-    Si los nombres en cast son masculinos o femeninos, se le adjudicará un puntaje de +1/-1 respectivamente. Para adjudicar el género se tomará la última letra del nombre de los participantes. Las terminaciones en: e, o, d, h, n, m, l, g, ó sus combinaciones pares, por ej. 'en', 'hn','oh','on', etc. en cada uno de los nombres, serán clasificadas con un puntaje de +1 (masculino). Todas las terminaciones distintas a las antes mencionadas, (e, o, h, n, m, l, g) serán clasificadas con un puntaje -1 (femenino).
+    Si los nombres en 'cast' son masculinos o femeninos, se le adjudicará un puntaje de +1/-1 respectivamente. Para adjudicar el género se tomará la última letra del nombre de los participantes. Las terminaciones en: e, o, d, h, n, m, l, g, ó sus combinaciones pares, por ej. 'en', 'hn','oh','on', etc. en cada uno de los nombres, serán clasificadas con un puntaje de +1 (masculino). Todas las terminaciones distintas a las antes mencionadas, (e, o, h, n, m, l, g) serán clasificadas con un puntaje -1 (femenino).
 
 **Nota: Ciertamente, las reglas de pre-procesamiento para identificar el género del elenco de en la variable cast necesitan una elaboración más rigurosa. No obstante, para fines ilustrativos las consideraremos en esta asignación.** 
 
 ## Analisis de Cluster (pendiente)
-
-
 
 ## Asignacion_04 (FP Growth)
    * Algoritmos de asociación, en este caso se utilizó (Frequent Pattern Growth) -FP Growth-
