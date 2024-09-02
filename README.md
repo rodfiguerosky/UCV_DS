@@ -1,7 +1,7 @@
 # Universidad Central de Venezuela ![UCV_DS](https://compex.ciens.ucv.ve/producto/ciencia-de-los-datos/ "link Diplomado")  
 
 Contenido de Asignaciones: 
-1. Asignacion_01
+1. Asignacion_01   
    Fuente de datos (*.csv): ![data_set_movies_tv_shows](https://www.kaggle.com/datasets/krishnaraj30/movies-and-tv-shows)
    Se realizo un conteo de ocurrencia de las categorias (i.e. el campo Listed In), por ejemplo: Comedy, Drama, etc.
 
