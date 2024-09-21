@@ -47,7 +47,7 @@ Si los nombres en 'cast' son masculinos o femeninos, se le adjudicará un puntaj
    * Proyecto: Análisis de clasificatorio de tópicos jerarquizados en los distintos buscadores según palabras clave. 
 
   * Procedimiento de búsqueda de datos:Las consultas se realizaron en el meta-buscador: ![searx](https://metasearx.com/)
-Realizamos consultas de la última semana de noticias respecto al día de hoy '19-09-2032' con la palabra o término "Venezuela": http://searx.thegpm.org/?q=venezuela&categories=news&time_range=week&language=en
+Realizamos consultas de la última semana de noticias respecto al día de hoy '19-09-2023' con la palabra o término "Venezuela": http://searx.thegpm.org/?q=venezuela&categories=news&time_range=week&language=en
   *  Las búsquedas resultantes en formato *.json (véase: Projecto_final_DS_data_json )
 
 
