@@ -14,8 +14,8 @@
    * Clasificación Bayesiana (Naive)
    * Proyecto: Identificación según el género del público consumidor 
 
-Nota: Clasificación “automática”
-Nuestra clasificación consistirá en asignar un puntaje (score) que adjudique si la película en cuestión está orientada al público masculino o femenino.
+Objetivo: Clasificación “automática”   
+Nuestra clasificación consistirá en asignar un ***puntaje-score*** que adjudique si la película está orientada al público masculino 🚹 o femenino 🚺.
 
 Cuanto más alto se cifre el puntaje en la escala positiva, cuanto mayor en escala la película estará más orientada al público masculino. Y, por tanto, la película se clasificará con +1.
 
