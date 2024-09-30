@@ -1,4 +1,5 @@
-# Universidad Central de Venezuela ![UCV_DS](https://compex.ciens.ucv.ve/producto/ciencia-de-los-datos/ "link Diplomado")  
+# Universidad Central de Venezuela ![UCV_DS](https://compex.ciens.ucv.ve/producto/ciencia-de-los-datos/ "link Diplomado")
+<img src="https://compex.ciens.ucv.ve/wp-content/uploads/2024/02/2.png" width="500">
 
 ## Asignacion_01   
    * Fuente de datos (archive_movies_csv.zip): ![data_set_movies_tv_shows](https://www.kaggle.com/datasets/krishnaraj30/movies-and-tv-shows)
